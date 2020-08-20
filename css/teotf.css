@@ -1,0 +1,21 @@
+.leerCapituloEnlace {
+    text-decoration: none;
+    font-weight: 400;
+    color: #3b3b3b;
+    transition: all 0.2s;
+}
+
+.leerCapituloEnlace:hover {
+    /**/
+    font-weight: 500;
+    color: #004ba1;
+    transition: all 0.2s;
+}
+
+.bienvenida {
+    font-size: 18px;
+}
+
+.leerCapituloEnlace p {
+    margin-top: 18px;
+}

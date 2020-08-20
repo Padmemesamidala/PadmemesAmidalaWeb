@@ -1,0 +1,1 @@
+//De momento no se requiere js
