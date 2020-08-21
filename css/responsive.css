@@ -1,0 +1,532 @@
+/**/
+
+@media (min-width: 300px) and (max-width: 399px) {
+    /**/
+    h1 {
+        font-size: 14px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 12px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 5px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 0.2%;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        left: 80%;
+        width: 20%;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 499px) {
+    /**/
+    h1 {
+        font-size: 14px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 12px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 5px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 0.2%;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        left: 80%;
+        width: 20%;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 599px) {
+    /**/
+    h1 {
+        font-size: 14px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 12px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 5px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 0.2%;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        left: 80%;
+        width: 15%;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 699px) {
+    /**/
+    h1 {
+        font-size: 14px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 14px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 5px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 12px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        left: 80%;
+        width: 15%;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 799px) {
+    /**/
+    h1 {
+        font-size: 20px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 18px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 5px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 12px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 70%;
+        left: 85%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 899px) {
+    /**/
+    h1 {
+        font-size: 25px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 22px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 16px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 18px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 60%;
+        left: 89%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 999px) {
+    /**/
+    h1 {
+        font-size: 25px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 22px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 16px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 18px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 75%;
+        left: 89%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1099px) {
+    /**/
+    h1 {
+        font-size: 25px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 22px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 16px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 18px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 75%;
+        left: 89%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1199px) {
+    /**/
+    h1 {
+        font-size: 32px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 28px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 24px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 24px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 75%;
+        left: 89%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+    /**/
+    h1 {
+        font-size: 32px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 28px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 24px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 24px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 75%;
+        left: 89%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1399px) {
+    /**/
+    h1 {
+        font-size: 32px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 28px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 24px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 24px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 75%;
+        left: 89%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) {
+    /**/
+    h1 {
+        font-size: 39px;
+    }
+    .menu3opciones {
+        /**/
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .opcion {
+        width: 55%;
+    }
+    .opcion a {
+        font-size: 28px;
+    }
+    .centrarBienvenida {
+        /**/
+        margin-left: 15%;
+        width: 70%;
+    }
+    .bienvenida p {
+        /**/
+        font-size: 30px;
+    }
+    /*Footer*/
+    .footer {
+        /**/
+        height: 60px;
+    }
+    .copyright li {
+        /**/
+        font-size: 24px;
+        margin-right: 10px;
+    }
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 75%;
+        left: 89%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 1999px) {
+    /*Imagen flotante*/
+    .padmemesFacebook a img {
+        /**/
+        top: 65%;
+        left: 89%;
+        width: 10%;
+    }
+}
